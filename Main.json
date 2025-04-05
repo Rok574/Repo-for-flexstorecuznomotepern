@@ -12,10 +12,10 @@
     ],
     "apps": [
         {
-            "name": "ipa",
+            "name": "EeveeSpotify",
             "bundleIdentifier": "com.activision.callofduty.shooter",
-            "developerName": "Lunite",
-            "subtitle": "menu included!\n\nFeatures:\n- Hitbox\n- Anticheat\nand more!",
+            "developerName": "Rok574",
+            "subtitle": "FlexStore Premium Download for free",
             "localizedDescription": "menu included!\n\nFeatures:\n- Hitbox\n- Anticheat\nand more!\n\n---\n\nMore app Information:\n\nCategory: Tweaked Game\n\nBundleID: com.activision.callofduty.shooter\n\nDownloads: 696\n\nLatest app store version: no",
             "iconURL": "https://apps.nabzclan.vip/images/1743635121.webp",
             "tintColor": "FFC300",
